@@ -87,7 +87,11 @@ namespace KakuroWithGui
                 {
                     answers += $"{used[i]} + ";
                 }
-                answers += used[used.Count - 1] + "\n";
+                if (used.Count > 0)
+                {
+                    answers += used[used.Count - 1] + "\n";
+                }
+                    
             }
 
             if (used.Count > 0)
