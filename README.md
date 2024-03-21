@@ -10,4 +10,4 @@ This was my first independent C# project and it gave me experience with recursio
 
 ## Features
 
-This program comes with an interactable GUI that allows the program to run indefinitely to receive multiple different inputs. The "Total" box is for the sum of the row/column and the "Spaces Available" box is for the amount of spaces in the row/column. Then, the "Output!" button with display all possible results.
+This program comes with an interactable GUI that allows the program to run indefinitely to receive multiple different inputs. The "Total" box is for the sum of the row/column and the "Spaces Available" box is for the amount of spaces in the row/column. Then, the "Output!" button will display all possible results.
